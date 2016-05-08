@@ -2,3 +2,4 @@ Git is	fiee	sotware.
 Git is change Three and xing da xiong.
 Git is change Four is xingjianxiong;
 Git is change Three is xingjianxiong;
+Git is six is xing da xiong;
